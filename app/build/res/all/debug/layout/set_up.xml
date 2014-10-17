@@ -1,0 +1,105 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#DED4D4"
+    tools:context=".SetUpActivity" >
+    
+    <LinearLayout
+    
+       android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" 
+        android:layout_marginTop="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:background="#FFFFFF">
+    
+    <LinearLayout
+    
+       android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:orientation="horizontal" 
+        android:background="#FFFFFF">     
+        
+    <TextView
+        android:id="@+id/lblName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="6dp"
+        android:text="Name:"
+        android:layout_marginRight="12dp"
+        android:textColor="@color/black"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <EditText
+        android:id="@+id/txtName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:ems="10" >
+        <requestFocus />
+    </EditText>
+
+    </LinearLayout>
+    
+    <LinearLayout
+    
+       android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+        android:orientation="horizontal" 
+        android:layout_marginTop="12dp"
+        android:background="#FFFFFF">     
+    
+    <TextView
+        android:id="@+id/lblBudget"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginRight="9dp"
+        android:textColor="@color/black"
+        android:text="Budget:"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <EditText
+        android:id="@+id/txtBudget"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:ems="10"
+        android:inputType="number"
+        android:width="100dp" 
+        android:hint="0"/>
+    
+     <Spinner
+         android:id="@+id/spinner"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+      	 android:layout_marginTop="6dp" />	
+    </LinearLayout>
+     
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnDone"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="12dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tint_selector"
+        android:minHeight="50dip"
+
+        android:layout_alignParentBottom="true"
+        android:text="Done" />
+    
+</RelativeLayout><!-- From: file:/C:/Users/Tudor/workspace/StudentSaver/app/src/main/res/layout/set_up.xml -->

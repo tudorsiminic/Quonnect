@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="unspecified" >
+        <source path="C:\Users\Tudor\workspace\StudentSaver\app\build\exploded-aar\StudentSaver.libs\GraphView\unspecified\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Tudor\workspace\StudentSaver\app\src\debug\assets" />
+    </dataSet>
+
+</merger>

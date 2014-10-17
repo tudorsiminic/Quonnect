@@ -1,0 +1,22 @@
+<!-- From: file:/C:/Users/Tudor/workspace/StudentSaver/app/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.project.student.saver">
+
+    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="17"/>
+<uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+
+
+    <application android:allowBackup="true" android:icon="@drawable/icon" android:label="@string/app_name" android:name="com.project.student.saver.SaverApplication" android:screenOrientation="portrait">
+        <activity android:label="@string/app_name" android:name="com.project.student.saver.SplashScreen" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.project.student.saver.MainActivity" android:screenOrientation="portrait" android:theme="@style/CustomActionBarTheme"/>
+        <activity android:name="com.project.student.saver.SetUpActivity" android:screenOrientation="portrait" android:theme="@style/CustomActionBarTheme"/>
+        <service android:name="com.project.student.saver.MyService">
+        </service>
+    </application>
+
+</manifest>

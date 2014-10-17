@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="unspecified" >
+        <source path="C:\Users\Tudor\workspace\StudentSaver\app\build\exploded-aar\StudentSaver.libs\GraphView\unspecified\res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res" >
+            <file
+                name="casa"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\casa.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="chain"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\chain.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="chart"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\chart.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="earth"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\earth.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="foldernormal"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\foldernormal.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="jupiter"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\jupiter.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mars"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\mars.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mercury"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\mercury.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="neptune"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\neptune.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="press"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\press.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="pressed_button"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\pressed_button.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="progress_bar"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\progress_bar.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="redbar"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\redbar.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="saturn"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\saturn.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selector"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="settings"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\settings.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="splash"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\splash.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="text_color"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\text_color.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tint_selector"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\tint_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="unclickable_button"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\unclickable_button.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="uranus"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\uranus.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="venus"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable\venus.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="action_search"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable-hdpi\action_search.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable-hdpi\drawer_shadow.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="firstlogo"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable-hdpi\firstlogo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable-hdpi\ic_drawer.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer2"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable-hdpi\ic_drawer2.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="action_search"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable-xhdpi\action_search.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable-xhdpi\drawer_shadow.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable-xhdpi\ic_drawer.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="add_purchase"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\layout\add_purchase.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\layout\dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_item"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\layout\drawer_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="empty_frame"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\layout\empty_frame.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_planet"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\layout\fragment_planet.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="home_activity"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\layout\home_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="item"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\layout\item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="settings"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\layout\settings.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="set_up"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\layout\set_up.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="spendings"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\layout\spendings.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="spinner_item_down"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\layout\spinner_item_down.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="spinner_item_text"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\layout\spinner_item_text.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="splash"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\layout\splash.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\values\color.xml"
+                qualifiers="" >
+                <color name="white" >#ffffff
+                </color>
+                <color name="black" >#000000
+                </color>
+                <color name="titlebackgroundcolor" >#DE1B1B
+                </color>
+                <color name="titletextcolor" >#FFFF00
+                </color>
+            </file>
+            <file
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >0dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >0dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string-array name="menu_items" >
+                    <item>
+Home
+                    </item>
+                    <item>
+Add Purchase
+                    </item>
+                    <item>
+Spendings
+                    </item>
+                    <item>
+Settings
+                    </item>
+                </string-array>
+
+                <string name="app_name" >Student Saver
+                </string>
+                <string name="action_websearch" >Web search
+                </string>
+                <string name="drawer_open" >Options
+                </string>
+                <string name="drawer_close" >Close navigation drawer
+                </string>
+                <string name="app_not_available" >Sorry, there\'s no web browser available
+                </string>
+            </file>
+            <file
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="Theme.TheFinalTheme"
+                    parent="android:style/Theme.Holo.Light" >
+                    <item name="android:actionBarStyle">
+@style/Theme.TheFinalTheme.MyActionBar
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.TheFinalTheme.MyActionBar.MyTextType"
+                    parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title" >
+                    <item name="android:textColor">
+@color/white
+                    </item>
+                </style>
+
+                <style name="WindowTitleBackground" >
+                    <item name="android:background">
+@color/titlebackgroundcolor
+                    </item>
+                    <item name="android:foreground">
+@color/titlebackgroundcolor
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.TheFinalTheme.MyActionBar"
+                    parent="@android:style/Widget.Holo.ActionBar" >
+                    <item name="android:background">
+@drawable/press
+                    </item>
+                    <item name="android:textAppearance">
+@style/Theme.TheFinalTheme.MyActionBar.MyTextType
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="MyActionBarTitleText"
+                    parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title" >
+                    <item name="android:textColor">
+@color/white
+                    </item>
+                </style>
+
+                <style
+                    name="MyActionBar"
+                    parent="@android:style/Widget.Holo.ActionBar" >
+                    <item name="android:titleTextStyle">
+@style/MyActionBarTitleText
+                    </item>
+                    <item name="android:background">
+@drawable/press
+                    </item>
+                </style>
+
+                <style
+                    name="CustomActionBarTheme"
+                    parent="@android:style/Theme.Holo.Light" >
+                    <item name="android:actionBarStyle">
+@style/MyActionBar
+                    </item>
+                </style>
+
+                <style
+                    name="spinnerStyle"
+                    parent="@android:style/Widget.TextView.SpinnerItem" >
+                    <item name="android:padding">
+5sp
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+
+                </style>
+            </file>
+            <file
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="CustomActionBarTheme"
+                    parent="@android:style/Theme.Holo.Light" >
+                    <item name="android:actionBarStyle">
+@style/MyActionBar
+                    </item>
+                </style>
+
+                <style
+                    name="spinnerStyle"
+                    parent="@android:style/Widget.TextView.SpinnerItem" >
+                    <item name="android:padding">
+5sp
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+
+                </style>
+
+                <style name="WindowTitleBackground" >
+                    <item name="android:background">
+@color/titlebackgroundcolor
+                    </item>
+                    <item name="android:foreground">
+@color/titlebackgroundcolor
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.TheFinalTheme.MyActionBar.MyTextType"
+                    parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title" >
+                    <item name="android:textColor">
+@color/white
+                    </item>
+                </style>
+
+                <style
+                    name="MyActionBar"
+                    parent="@android:style/Widget.Holo.ActionBar" >
+                    <item name="android:titleTextStyle">
+@style/MyActionBarTitleText
+                    </item>
+                    <item name="android:background">
+@drawable/press
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.TheFinalTheme"
+                    parent="android:style/Theme.Holo.Light" >
+                    <item name="android:actionBarStyle">
+@style/Theme.TheFinalTheme.MyActionBar
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.TheFinalTheme.MyActionBar"
+                    parent="@android:style/Widget.Holo.ActionBar" >
+
+                    <!-- <item name="android:background">@drawable/press</item> -->
+                    <item name="android:textAppearance">
+@style/Theme.TheFinalTheme.MyActionBar.MyTextType
+                    </item>
+                </style>
+
+                <style
+                    name="MyActionBarTitleText"
+                    parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title" >
+                    <item name="android:textColor">
+@color/white
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Tudor\workspace\StudentSaver\app\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="MyActionBar"
+                    parent="@android:style/Widget.Holo.ActionBar" >
+                    <item name="android:titleTextStyle">
+@style/MyActionBarTitleText
+                    </item>
+                    <item name="android:background">
+@drawable/press
+                    </item>
+                </style>
+
+                <style name="WindowTitleBackground" >
+                    <item name="android:background">
+@color/titlebackgroundcolor
+                    </item>
+                    <item name="android:foreground">
+@color/titlebackgroundcolor
+                    </item>
+                </style>
+
+                <style
+                    name="CustomActionBarTheme"
+                    parent="@android:style/Theme.Holo.Light" >
+                    <item name="android:actionBarStyle">
+@style/MyActionBar
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="Theme.TheFinalTheme"
+                    parent="android:style/Theme.Holo.Light" >
+                    <item name="android:actionBarStyle">
+@style/Theme.TheFinalTheme.MyActionBar
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+
+                </style>
+
+                <style
+                    name="spinnerStyle"
+                    parent="@android:style/Widget.TextView.SpinnerItem" >
+                    <item name="android:padding">
+5sp
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.TheFinalTheme.MyActionBar"
+                    parent="@android:style/Widget.Holo.ActionBar" >
+
+                    <!-- <item name="android:background">@drawable/press</item> -->
+                    <item name="android:textAppearance">
+@style/Theme.TheFinalTheme.MyActionBar.MyTextType
+                    </item>
+                </style>
+
+                <style
+                    name="MyActionBarTitleText"
+                    parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title" >
+                    <item name="android:textColor">
+@color/white
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.TheFinalTheme.MyActionBar.MyTextType"
+                    parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title" >
+                    <item name="android:textColor">
+@color/white
+                    </item>
+                </style>
+            </file>
+        </source>
+        <source path="C:\Users\Tudor\workspace\StudentSaver\app\build\res\rs\debug" />
+        <source path="C:\Users\Tudor\workspace\StudentSaver\app\build\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Tudor\workspace\StudentSaver\app\src\debug\res" />
+    </dataSet>
+
+</merger>
