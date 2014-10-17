@@ -1,3 +1,0 @@
-<!-- From: file:/C:/Users/Tudor/workspace/StudentSaver/libs/GraphView/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.jjoe64.graphview">
-    <uses-sdk android:targetSdkVersion="16"/>
-</manifest>

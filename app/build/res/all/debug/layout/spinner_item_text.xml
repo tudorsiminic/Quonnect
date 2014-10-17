@@ -1,8 +1,0 @@
- <TextView xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/spinner23"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:gravity="left|center_vertical"
-     android:textSize="18dp"
-     android:textColor="@android:color/black"
-     android:layout_margin="10dp"/><!-- From: file:/C:/Users/Tudor/workspace/StudentSaver/app/src/main/res/layout/spinner_item_text.xml -->

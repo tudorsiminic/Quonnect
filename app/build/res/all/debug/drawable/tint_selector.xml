@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:state_pressed="true"
-        android:drawable="@drawable/pressed_button" />
-    <item  android:state_enabled="false"
-        android:drawable="@drawable/unclickable_button" />
-</selector><!-- From: file:/C:/Users/Tudor/workspace/StudentSaver/app/src/main/res/drawable/tint_selector.xml -->
